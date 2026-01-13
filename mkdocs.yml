@@ -1,0 +1,108 @@
+# Site information
+site_name: Community Name Rules
+
+# Theme elements
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: images/favicon.png
+  icon:
+    alternate: material/format-letter-case
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.expand
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+
+# Used plugins
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: ro
+          default: true
+          name: Română
+          build: true
+        - locale: en
+          name: English
+          build: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+
+# Used extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+# Copyright elements and cookie settings
+copyright: >
+  Copyright &copy; <script>document.write(new Date().getFullYear())</script> COMMUNITY NAME All Rights Reserved
+
+# Custom css
+extra_css:
+  - stylesheets/extra.css
+
+# Footer elements
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences (like keeping your desired site theme).
+    actions:
+      - accept
+      - reject
+
+# Navigation
+nav:
+  - Server Rules:
+    - Server Rules: index.md
+  - Leader Rules:
+    - Leader Rules: leaders/leader-rules.md
+  - Faction Rules:
+    - General Rules: factions/faction-rules.md
+    - Internal Rules:
+      - Government Agencies:
+        - Mayor: factions/government/mayor.md
+        - Local Police Department: factions/government/lpd.md
+      - Police Departments:
+        - Intelligence Department: factions/police/intelligence.md
+        - Roads Policing Department: factions/police/roads-policing.md
+        - SWAT Department: factions/police/swat.md
+      - The Company:
+        - Agents Division: factions/company/agents.md
+  - Wiki:
+    - Home: wiki/index.md
