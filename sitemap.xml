@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/faction-rules/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/faction-rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/faction-rules/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/company/agents/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/company/agents/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/company/agents/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/government/lpd/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/government/lpd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/government/lpd/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/government/mayor/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/government/mayor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/government/mayor/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/police/intelligence/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/intelligence/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/intelligence/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/police/roads-policing/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/roads-policing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/roads-policing/"/>
+    </url>
+    <url>
+        <loc>Nonefactions/police/swat/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/swat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/swat/"/>
+    </url>
+    <url>
+        <loc>Noneleaders/leader-rules/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Noneleaders/leader-rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/leaders/leader-rules/"/>
+    </url>
+    <url>
+        <loc>Nonewiki/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki/"/>
+    </url>
+    <url>
+        <loc>Noneen/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="None"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/faction-rules/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/faction-rules/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/faction-rules/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/company/agents/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/company/agents/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/company/agents/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/government/lpd/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/government/lpd/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/government/lpd/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/government/mayor/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/government/mayor/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/government/mayor/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/police/intelligence/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/intelligence/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/intelligence/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/police/roads-policing/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/roads-policing/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/roads-policing/"/>
+    </url>
+    <url>
+        <loc>Noneen/factions/police/swat/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/factions/police/swat/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonefactions/police/swat/"/>
+    </url>
+    <url>
+        <loc>Noneen/leaders/leader-rules/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/leaders/leader-rules/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Noneleaders/leader-rules/"/>
+    </url>
+    <url>
+        <loc>Noneen/wiki/</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/wiki/"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="Nonewiki/"/>
+    </url>
+</urlset>
