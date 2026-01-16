@@ -36,26 +36,26 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 ### 3. Instalare FiveM
 
 <figure markdown="span">
-    ![download FiveM](../../images/fivem_download.png){ width="800" }
+    ![download FiveM](../images/fivem_download.png){ width="800" }
 </figure>
 
 - clientul de FiveM se descarca de pe site-ul oficial <a href="https://fivem.net/" target="_blank">https://fivem.net/</a>.
 - faceti click pe butonul mare din partea dreapta care spune "<span style="color: yellow">DOWNLOAD CLIENT</span>".
 
 <figure markdown="span">
-    ![FiveM ToS](../../images/fivem_terms.png){ width="800" }
+    ![FiveM ToS](../images/fivem_terms.png){ width="800" }
 </figure>
 
 - va trebui sa cititi termenii si conditiile de utilizare ale FiveM si sa faceti click pe butonul "<span style="color: yellow">SURE, I AGREE!</span>" cum ca sunteti de acord cu acestea.
 
 <figure markdown="span">
-    ![FiveM install](../../images/fivem_install.png){ width="400" }
+    ![FiveM install](../images/fivem_install.png){ width="400" }
 </figure>
 
 - va trebui deschideti installerul descarcat si sa-l lasati sa isi faca update, respectiv sa se instaleze.
 
 <figure markdown="span">
-    ![FiveM path select](../../images/gta5_path.png){ width="800" }
+    ![FiveM path select](../images/gta5_path.png){ width="800" }
 </figure>
 
 - dupa ce se instaleaza o sa va apara sa selectati calea (<span style="color: yellow">PATH-ul</span>) unde aveti instalat jocul GTA V si unde se regaseste executabilul <span style="color: yellow">GTA5.exe</span>.
@@ -75,7 +75,7 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 
 ??? tip "Cum gasesti PATH-ul pe Steam?"
 	<figure markdown="span">
-	    ![Steam browse path](../../images/steam_path.png){ width="600" }
+	    ![Steam browse path](../images/steam_path.png){ width="600" }
 	</figure>
 	
 	- pentru a descoperi locatia pe Steam faceti click dreapta pe joc in "<span style="color: yellow">Library</span>", apoi selectati "<span style="color: yellow">Manage</span>", apoi "<span style="color: yellow">Browse Local Files</span>".
@@ -84,13 +84,13 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 
 ??? tip "Cum gasesti PATH-ul pe Epic Games?"
 	<figure markdown="span">
-	    ![Epic browse path](../../images/epic_path.png){ width="600" }
+	    ![Epic browse path](../images/epic_path.png){ width="600" }
 	</figure>
 	
 	- pentru a descoperi locatia pe Epic Games faceti click pe "<span style="color: yellow">Library</span>", apoi pe cele 3 puncte din dreptul titului jocului, apoi pe "<span style="color: yellow">Manage</span>".
 	
 	<figure markdown="span">
-	    ![Epic browse path 2](../../images/epic_path2.png){ width="600" }
+	    ![Epic browse path 2](../images/epic_path2.png){ width="600" }
 	</figure>
 	
 	- apoi in partea dreapta a rubricii "<span style="color: yellow">Installation</span>" faceti click pe iconita de browse files.
@@ -99,20 +99,20 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 
 ??? tip "Cum gasesti PATH-ul pe Rockstar Launcher?"
 	<figure markdown="span">
-	    ![Rockstar Launcher browse path](../../images/rockstar_path.png){ width="800" }
+	    ![Rockstar Launcher browse path](../images/rockstar_path.png){ width="800" }
 	</figure>
 	
 	- pentru a descoperi locatia pe Rockstar Launcher faceti click pe "<span style="color: yellow">SETTINGS</span>", apoi selectati jocul Grand Theft Auto V, apoi faceti click pe "<span style="color: yellow">OPEN</span>" din dreptul campului "<span style="color: yellow">View Installation Folder</span>".
 
 <figure markdown="span">
-    ![Steam path gta5.exe](../../images/steam_gta_path.png){ width="800" }
+    ![Steam path gta5.exe](../images/steam_gta_path.png){ width="800" }
 </figure>
 
 - vi se va deschide o fereastra cu locatia unde e instalat jocul (<span style="color: yellow">ne intereseaza GTA5.exe</span>).
 - copiati calea din bara de adrese a ferestrei facand click dreapta si selectand optiunea de copiere.
 
 <figure markdown="span">
-    ![FiveM path selected](../../images/fivem_path_selected.png){ width="600" }
+    ![FiveM path selected](../images/fivem_path_selected.png){ width="600" }
 </figure>
 
 - calea copiata trebuie lipita in fereastra originala a installerului de FiveM.<br/>
@@ -120,14 +120,14 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 - il selectati si faceti click pe butonul de "<span style="color: yellow">OPEN</span>".
 
 <figure markdown="span">
-    ![FiveM update](../../images/fivem_update.png){ width="600" }
+    ![FiveM update](../images/fivem_update.png){ width="600" }
 </figure>
 
 - dupa ce ati selectat calea catre <span style="color: yellow">GTA5.exe</span> installerul isi va continua instalarea.
 - aprobati actualizarile de care are nevoie.
 
 <figure markdown="span">
-    ![FiveM client terms and conditions](../../images/fivem_client_terms.png){ width="600" }
+    ![FiveM client terms and conditions](../images/fivem_client_terms.png){ width="600" }
 </figure>
 
 - de indata ce instalarea si actualizarea au fost finalizate vi se va deschide clientul de FiveM unde va trebui sa acceptati din nou Termenii si Conditiile de utilizare.
@@ -139,21 +139,21 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 #### Asocierea Initiala
 
 <figure markdown="span">
-    ![cfx.re link](../../images/cfx_link.png){ width="600" }
+    ![cfx.re link](../images/cfx_link.png){ width="600" }
 </figure>
 
 - la prima deschidere a clientului de FiveM veti vedea fereastra de mai sus unde puteti sa va conectati contul de <span style="color: yellow">cfx.re</span>.
 - facand click pe butonul de "<span style="color: yellow">Sign in</span>" o sa vi se deschida browserul pe forumul cfx.re unde va puteti conecta si unde va puteti crea un cont daca nu aveti deja.
 
 <figure markdown="span">
-    ![cfx.re sign up](../../images/cfx_signup.png){ width="800" }
+    ![cfx.re sign up](../images/cfx_signup.png){ width="800" }
 </figure>
 
 - daca aveti deja un cont de [forum.cfx.re](https://forum.cfx.re) atunci pur si simplu conectati-va la cont sau autorizati conexiunea daca ati fost deja conectati.
 - daca nu aveti cont, faceti click pe butonul de "Sign Up" si inregistrati-va un cont.
 
 <figure markdown="span">
-    ![cfx.re sign up](../../images/cfx_google.png){ width="800" }
+    ![cfx.re sign up](../images/cfx_google.png){ width="800" }
 </figure>
 
 - cel mai simplu este sa va conectati direct cu contul de Google.
@@ -166,7 +166,7 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 #### Asocierea Ulterioara
 
 <figure markdown="span">
-    ![cfx.re link](../../images/cfx_link_after.png){ width="800" }
+    ![cfx.re link](../images/cfx_link_after.png){ width="800" }
 </figure>
 
 - in cazul in care ati omis asocierea contului de cfx.re la prima deschidere a clientului FiveM, puteti face acest lucru ulterior din setarile clientului facand click pe butonul din partea dreapta superioara de "<span style="color: yellow">Link account</span>".
@@ -174,14 +174,14 @@ Sub tutorialul video veti gasi un tutorial text cu explicatii suplimentare si ac
 ## 5. Conectarea la Server
 
 <figure markdown="span">
-    ![find servers](../../images/fivem_play.png){ width="800" }
+    ![find servers](../images/fivem_play.png){ width="800" }
 </figure>
 
 - pentru a va conecta la un server faceti click pe butonul mare de "<span style="color: yellow">PLAY</span>" pentru a deschide lista de servere.
 - puteti cauta serverul dupa nume tastand numele acestuia in casuta de cautare.
 
 <figure markdown="span">
-    ![server address](../../images/server_address.png){ width="800" }
+    ![server address](../images/server_address.png){ width="800" }
 </figure>
 
 - alternativ daca cunoasteti adresa DNS a serverului o puteti introduce in formatul <span style="color: yellow">>rpg.domeniu.com</span> si sa apasati tasta ENTER.
