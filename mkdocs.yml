@@ -89,20 +89,20 @@ extra:
 # Navigation
 nav:
   - Server Rules:
-    - Server Rules: index.md
+      - Server Rules: index.md
   - Leader Rules:
-    - Leader Rules: leaders/leader-rules.md
+      - Leader Rules: leaders/leader-rules.md
   - Faction Rules:
-    - General Rules: factions/faction-rules.md
-    - Internal Rules:
-      - Government Agencies:
-        - Mayor: factions/government/mayor.md
-        - Local Police Department: factions/government/lpd.md
-      - Police Departments:
-        - Intelligence Department: factions/police/intelligence.md
-        - Roads Policing Department: factions/police/roads-policing.md
-        - SWAT Department: factions/police/swat.md
-      - The Company:
-        - Agents Division: factions/company/agents.md
+      - General Rules: factions/faction-rules.md
+      - Internal Rules:
+          - Government Agencies:
+              - Mayor: factions/government/mayor.md
+              - Local Police Department: factions/government/lpd.md
+          - Police Departments:
+              - Intelligence Department: factions/police/intelligence.md
+              - Roads Policing Department: factions/police/roads-policing.md
+              - SWAT Department: factions/police/swat.md
+          - The Company:
+              - Agents Division: factions/company/agents.md
   - Wiki:
-    - Home: wiki/index.md
+      - Home: wiki/index.md
